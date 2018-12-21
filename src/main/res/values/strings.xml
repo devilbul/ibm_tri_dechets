@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tri Déchets</string>
+    <string name="take_photo">Prendre Photo</string>
+    <string name="choose_photo">Choisir Photo</string>
+    <string name="recyclable">Recyclable</string>
+    <string name="non_recyclable">Non recyclable</string>
+    <string name="image_desc">Image à analyser</string>
+</resources>

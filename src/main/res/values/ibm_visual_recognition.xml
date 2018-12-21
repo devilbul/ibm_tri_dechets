@@ -2,6 +2,6 @@
 <resources>
 
     <string name="visual_recognition_api_key">{ApiKey}</string>
-    <string name="visual_recognition_version">2018-03-19</string>
-    <string name="visual_recognition_model">RecyclableModel_493133210</string>
+    <string name="visual_recognition_version">{ApiVersion}</string>
+    <string name="visual_recognition_model">{ModelIdKey}</string>
 </resources>
